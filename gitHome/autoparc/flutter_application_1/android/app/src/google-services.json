@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "883837004530",
+    "firebase_url": "https://autocar-ca30f-default-rtdb.firebaseio.com",
+    "project_id": "autocar-ca30f",
+    "storage_bucket": "autocar-ca30f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883837004530:android:34ad599735e46d92387e6b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883837004530-5us7pon5oe1673gn130ikh4k6klohjh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALxvFNaYjsBU2BTju8KX8LdQvfKXW_r08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883837004530-5us7pon5oe1673gn130ikh4k6klohjh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
